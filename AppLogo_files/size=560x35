@@ -1,0 +1,13 @@
+document.write("<!--*\n");
+document.write("var aolAdId=\"5216494|445434080\";\n");
+document.write("var aolSize=\"560|35\";\n");
+document.write("var aolFormat=\"HTML\";\n");
+document.write("*-->\n");
+document.write("<img src=\"https://s.aolcdn.com/os/SponsoredListings/content/images/sponsored\" height=\"35\" width=\"70\" style=\"margin:0px;padding:0px;border:0 none;\">\n");
+adsonar_placementId=1598206;adsonar_pid=3198782;adsonar_ps=0;adsonar_zw=485;adsonar_zh=35;adsonar_jv='ssl-ads.adsonar.com';adsonar_ssl=true
+document.write("<scr"+"ipt language=\"JavaScript\" src=\"https://secure-js.adsonar.com/js/adsonar.js\"></scr"+"ipt>\n");
+
+
+
+document.write("\x3Cscript type=\x27text\x2Fjavascript\x27 src=\x27https:\x2F\x2Fs.aolcdn.com\x2Fos\x2Fmoat\x2Fprod\x2Fmoat_mnwl_s.js\x27\x3E\x3C\x2Fscript\x3E")
+

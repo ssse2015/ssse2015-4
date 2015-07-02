@@ -29,8 +29,8 @@ $(document).ready(function() {
 		console.log(score)
 	}
 
-	$("#garbage1").click(clickFunction);
-	$("#oyster").click(oysterClick);
+	$(".garbage1").click(clickFunction);
+	$(".oyster").click(oysterClick);
 
 
 })
