@@ -1,0 +1,28 @@
+/*dy{
+	background:url ("http://img06.deviantart.net/f4cb/i/2011/095/0/1/murky_water_by_suprgrl1995-d3dbdur.jpg");
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+/*#background {
+    position: absolute;
+    z-index: 1;
+}
+
+#oyster {
+	position: absolute;
+	z-index: 1;
+}
+
+#garbage {
+	position: absolute;
+	z-index: 1;
+}*/
+
+.footer{
+	clear: both;
+}
+
+p{
+	color: black;
+}
